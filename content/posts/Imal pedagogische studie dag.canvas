@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"533d35034ef3123d","type":"text","text":"#Luddisme","x":-320,"y":-680,"width":160,"height":60},
+		{"id":"f0e0f856fcf7eea1","type":"text","text":"Ai?","x":60,"y":-680,"width":250,"height":60},
+		{"id":"2b97737dcbe2175a","type":"text","text":"Digitalisering","x":-900,"y":-940,"width":250,"height":60},
+		{"id":"bae6a3df0c287f0e","type":"text","text":"#Imal instelling muzeum/ fablab","x":-900,"y":-540,"width":200,"height":60,"color":"6"}
+	],
+	"edges":[
+		{"id":"d4493737a6d11d0b","fromNode":"bae6a3df0c287f0e","fromSide":"top","toNode":"2b97737dcbe2175a","toSide":"bottom"},
+		{"id":"ba9f7e23686f91fc","fromNode":"533d35034ef3123d","fromSide":"right","toNode":"f0e0f856fcf7eea1","toSide":"left"},
+		{"id":"cdb908f3ac0b0044","fromNode":"2b97737dcbe2175a","fromSide":"right","toNode":"533d35034ef3123d","toSide":"left","label":"sociale beweging Engeland 19e eeuw,  verzette tegen industriële en technologische ontwikkelingen."}
+	]
+}
